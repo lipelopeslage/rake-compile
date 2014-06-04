@@ -4,6 +4,8 @@ rake-compile
 Raketask to compile assets pipeline without a Rails project.<br>
 From ruby noob to ruby noobs.
 
+Especial thanks to [Simone Carletti 's Blog](http://simonecarletti.com/blog/2011/09/using-sprockets-without-a-railsrack-project/) witch made it finally possible.
+
 ##Setting up
 **Variables:**
 * ROOT - the main directory. Ex: Pathname(File.dirname(__FILE__))
