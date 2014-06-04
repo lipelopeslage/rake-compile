@@ -28,5 +28,5 @@ As the name says, just duplicates files from source to build path.
 
 ============
 
-##Usage
+##Important note
 Make sure to set the BUNDLES variable with real (existing) files, otherwise it might break
