@@ -1,0 +1,1 @@
+!function(l){l={hello:function(){alert("hello world")}},l.hello()}(window);

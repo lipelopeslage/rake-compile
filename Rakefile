@@ -9,7 +9,7 @@ Bundler.require
 
 ROOT        = Pathname(File.dirname(__FILE__))
 LOGGER      = Logger.new(STDOUT)
-BUNDLES     = %w( examplem.css example.js )
+BUNDLES     = %w( all.css all.js )
 BUILD_DIR   = ROOT.join("build")
 SOURCE_DIR  = ROOT.join("src")
 
